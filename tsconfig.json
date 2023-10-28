@@ -11,7 +11,7 @@
     "typeRoots": ["node_modules/@types"],
     "moduleResolution": "node"
   },
-  "include": ["src"]
+  "include": ["public/src","public/src/js/index/main.ts", "build/main.js"]
 }
 
 
